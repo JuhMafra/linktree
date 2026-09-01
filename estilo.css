@@ -73,7 +73,7 @@ main{
     cursor: pointer;
     color: white;
 }
-.links li a:hover{
+.links li:hover a{
     color: white;
 }
 .links li a{
